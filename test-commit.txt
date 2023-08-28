@@ -1,0 +1,5 @@
+This is a test. Make changes, add, commit, push and make a pull request.
+
+Hope you all have a great life!
+
+See ya next time, in the same Bat-file
