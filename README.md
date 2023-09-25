@@ -1,3 +1,3 @@
 # forking-lesson
 Kattya 
-Introduction to Version Control 
+Introduction to Version Control course
