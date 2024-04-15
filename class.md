@@ -1,0 +1,2 @@
+Xin chào
+Hello
