@@ -1,0 +1,3 @@
+Onyinye
+Nigeria
+Meta Frontend developer certificate
